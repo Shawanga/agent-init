@@ -7,8 +7,7 @@ Interactive scaffolder for AI coding harnesses. Creates project files and folder
 ### Homebrew
 
 ```bash
-brew tap shawanga/agent-init
-brew install agent-init
+brew install shawanga/tap/agent-init
 ```
 
 ### Manual
